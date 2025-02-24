@@ -1,2 +1,2 @@
-# Electricity-demand-demand-forecasting
-Electricity demand and demand forecasting
+# Electricity-demand-price-forecasting
+Electricity demand and price forecasting
